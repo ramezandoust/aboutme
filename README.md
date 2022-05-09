@@ -1,5 +1,3 @@
-<h1 align="left">Hiii <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-
 ## 🔥 ABOUT ME
 
 - 👉 My Love Is `Front End`
@@ -17,7 +15,7 @@
 
 <br>
 
-## 🛠️ My Skills
+## 🛠️ MY SKILLS
 
 <p align="left">
 
