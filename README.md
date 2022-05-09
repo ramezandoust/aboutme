@@ -1,5 +1,12 @@
 <h1 align="left">Hiii <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
+## 🔥 ABOUT ME
+
+- 👉 My Love Is `Front End`
+- 👉 I am a `React Js` & `Next Js` Developer
+- 👉 Always `learning new things`
+
+<br>
 
 ## 📊 GITHUB STATUS
 
@@ -7,14 +14,6 @@
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="ramezandoust Github Stats" src="https://github-readme-stats.vercel.app/api?username=ramezandoust&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
 
   </p>
-
-<br>
-
-## 🔥 ABOUT ME
-
-- 👉 My Love Is `Front End`
-- 👉 I am a `React Js` & `Next Js` Developer
-- 👉 Always `learning new things`
 
 <br>
 
