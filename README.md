@@ -6,7 +6,7 @@
 
 <br>
 
-## 📊 GITHUB STATUS
+## ☕ GITHUB STATUS
 
   <p align="left">
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="ramezandoust Github Stats" src="https://github-readme-stats.vercel.app/api?username=ramezandoust&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
