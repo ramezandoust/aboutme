@@ -1,6 +1,5 @@
 ## 🔥 ABOUT ME
 
-- 👉 My Love Is `Front End`
 - 👉 I am a `React Js` & `Next Js` Developer
 - 👉 Always `learning new things`
 
